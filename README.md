@@ -19,7 +19,7 @@ INC0GNITO 2026 아이디어톤 본선 최우수상 · 2026.05.08 · 고려대학
 
 <br>
 
-<img src="assets/award.jpg" alt="INC0GNITO 2026 최우수상 상장" width="700">
+<img src="assets/award.jpg" alt="INC0GNITO 2026 최우수상 상금판" width="700">
 
 2026 INC0GNITO FESTIVAL IDEATHON · 최우수상
 상금 400,000원 · 2026.05.08 · 고려대학교 정운오IT교양관
